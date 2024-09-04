@@ -3,8 +3,7 @@
 <h2>💫 About Me: </h2>
 
 I'm Currently Working on Backend <br>I'm Currently Learning Flask<br>I'm looking for Collaborators for SIH project<br><br>
-<img src="https://media.tenor.com/SKjjqXTekFgAAAAM/sasuke-discord.gif" alt="hi">
-
+ <img src="https://media.tenor.com/SKjjqXTekFgAAAAM/sasuke-discord.gif" alt="hi" height="220">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/formidable__kartik/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kartik-khiriya-483a81319/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Karzkc08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@karzkc0803) 
