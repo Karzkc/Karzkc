@@ -1,5 +1,7 @@
 [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5ff32a9-60ec-4b06-ab65-5ca3b08b9d87/d2gzsoy-c4b0f3ca-5ea7-4520-b200-097c834a6922.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q1ZmYzMmE5LTYwZWMtNGIwNi1hYjY1LTVjYTNiMDhiOWQ4N1wvZDJnenNveS1jNGIwZjNjYS01ZWE3LTQ1MjAtYjIwMC0wOTdjODM0YTY5MjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EHIRDkHjiH5MJQmWu60f0P1CvnUh1hBwktd1e7qn0uc)]()
-# 💫 About Me:
+<h1>Sup Everyone 👋, I'm Kartik Khiriya</h1>
+<h2>💫 About Me: </h2>
+
 I'm Currently Working on Backend <br>I'm Currently Learning Flask<br>I'm looking for Collaborators for SIH project<br><br>
 <img src="https://media.tenor.com/SKjjqXTekFgAAAAM/sasuke-discord.gif" alt="hi">
 
@@ -17,7 +19,7 @@ I'm Currently Working on Backend <br>I'm Currently Learning Flask<br>I'm looking
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Karzkc&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+###  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
