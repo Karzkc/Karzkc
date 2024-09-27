@@ -2,7 +2,7 @@
 <h1>Sup Everyone 👋, I'm Kartik Khiriya</h1>
 <h2>💫 About Me: </h2>
 
-I'm Currently Working on Backend <br>I'm Currently Learning Flask<br>I'm looking for Collaborators for SIH project<br><br>
+I'm Currently Working on Backend <br>I'm Currently Learning Flask and Js<br>Making Propjects For Web Dev<br><br>
  <img src="https://media.tenor.com/SKjjqXTekFgAAAAM/sasuke-discord.gif" alt="hi" height="220">
 
 ## 🌐 Socials:
