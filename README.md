@@ -3,7 +3,7 @@
 <h2>💫 About Me: </h2>
 
 I'm Currently Working on Backend <br>I'm Currently Learning Flask and Js<br>Making Projects For Web Dev<br>Some Clones I made:<br>Netflix UI clone : https://karzkc.github.io/Netflix-Ui-Clone/ <br> 
-Fragrantic Island: https://karzkc.github.io/Fragrantic-Island-/ <br>
+Fragrantic Island: https://karzkc.github.io/Fragrantic-Island-/ <br><br>
  <img src="https://media.tenor.com/SKjjqXTekFgAAAAM/sasuke-discord.gif" alt="hi" height="220">
 
 ## 🌐 Socials:
