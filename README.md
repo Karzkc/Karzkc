@@ -1,4 +1,4 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5ff32a9-60ec-4b06-ab65-5ca3b08b9d87/d2gzsoy-c4b0f3ca-5ea7-4520-b200-097c834a6922.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q1ZmYzMmE5LTYwZWMtNGIwNi1hYjY1LTVjYTNiMDhiOWQ4N1wvZDJnenNveS1jNGIwZjNjYS01ZWE3LTQ1MjAtYjIwMC0wOTdjODM0YTY5MjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EHIRDkHjiH5MJQmWu60f0P1CvnUh1hBwktd1e7qn0uc)]()
+[![MasterHead](https://images8.alphacoders.com/115/1156488.png)]()
 <h1>Sup Everyone 👋, I'm Kartik Khiriya</h1>
 <h2>💫 About Me: </h2>
 
