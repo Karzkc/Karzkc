@@ -1,4 +1,4 @@
-[![MasterHead](https://images8.alphacoders.com/115/1156488.png)]()
+[![MasterHead]<img src="https://images8.alphacoders.com/115/1156488.png" alt="" width="200"/>]()
 <h1>Sup Everyone 👋, I'm Kartik Khiriya</h1>
 <h2>💫 About Me: </h2>
 
