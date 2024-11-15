@@ -1,4 +1,4 @@
-[![MasterHead]<img src="https://images8.alphacoders.com/115/1156488.png" alt="" width="200"/>]()
+<img src="https://media.licdn.com/dms/image/D5612AQHpWKXQMdnLdg/article-cover_image-shrink_720_1280/0/1710052146032?e=2147483647&v=beta&t=LlaT66GqC63firlYGbr_L2KANegqUW2RGrhzqkI-5pM" alt="" />
 <h1>Sup Everyone 👋, I'm Kartik Khiriya</h1>
 <h2>💫 About Me: </h2>
 
