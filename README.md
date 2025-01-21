@@ -4,7 +4,9 @@
 
 I'm Currently Working on Backend <br>I'm Currently Learning PHP and Js<br>Making Projects For Web Dev<br>Some Clones I made:<br>Netflix UI clone (not ready for mobile yet 😞): https://karzkc.github.io/Netflix-Ui-Clone/ <br> 
 Fragrantic Island: https://karzkc.github.io/Fragrantic-Island-/ <br><br>
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh4bnJqdXd3Y2F5bWJ0M3U2ejJraHUzbGwxczBvOWFnYzNkdW40NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91P04R5jGNGZZIDm0N/giphy.gif" alt="aizen-sama" height="220">
+ <div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh4bnJqdXd3Y2F5bWJ0M3U2ejJraHUzbGwxczBvOWFnYzNkdW40NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91P04R5jGNGZZIDm0N/giphy.gif" alt="aizen-sama" height="220">
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kartikk_0803/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-khiriya-483a81319/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Karzkc08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@karzkc0803) 
@@ -31,11 +33,12 @@ Fragrantic Island: https://karzkc.github.io/Fragrantic-Island-/ <br><br>
 
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Karzkc&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Karzkc&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Karzkc&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<h1>📊 GitHub Stats:</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karzkc&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karzkc&theme=neon&hide_border=false" alt="GitHub Streak Stats"><br/><br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Karzkc&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
 
 
 
