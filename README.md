@@ -4,7 +4,7 @@
 
 I'm Currently Working on Backend <br>I'm Currently Learning PHP and Js<br>Making Projects For Web Dev<br>Some Clones I made:<br>Netflix UI clone (not ready for mobile yet 😞): https://karzkc.github.io/Netflix-Ui-Clone/ <br> 
 Fragrantic Island: https://karzkc.github.io/Fragrantic-Island-/ <br><br>
- <img src="https://media.tenor.com/SKjjqXTekFgAAAAM/sasuke-discord.gif" alt="hi" height="220">
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh4bnJqdXd3Y2F5bWJ0M3U2ejJraHUzbGwxczBvOWFnYzNkdW40NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91P04R5jGNGZZIDm0N/giphy.gif" alt="aizen-sama" height="220">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kartikk_0803/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-khiriya-483a81319/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Karzkc08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@karzkc0803) 
