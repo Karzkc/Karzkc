@@ -39,7 +39,7 @@ Taskify-Your Todo App : https://taskify-todo-app-blush.vercel.app/ <br>
 <h1>📊 GitHub Stats:</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karzkc&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karzkc&theme=neon&hide_border=false" alt="GitHub Streak Stats"><br/><br/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karzkc&theme=neon&hide_border=false" alt="GitHub Streak Stats"><br/><br/> -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Karzkc&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
