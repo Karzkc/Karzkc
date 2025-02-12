@@ -2,7 +2,7 @@
 <h1>Sup Everyone 👋, I'm Kartik Khiriya</h1>
 <h2>💫 About Me: </h2>
 
-I'm Currently Working on Fullstack Development <br>I'm Currently Learning React and Some Frameworks<br>Making Projects For Web Dev<br>Some Projects by me ;) :- <br>Netflix UI clone (not ready for mobile yet 😞): https://karzkc.github.io/Netflix-Ui-Clone/ <br> 
+I'm Currently Working on Fullstack Development <br>I'm onto MERN nowadays<br>Making Projects For Web Dev<br>Some Projects by me ;) :- <br>Netflix UI clone (not ready for mobile yet 😞): https://karzkc.github.io/Netflix-Ui-Clone/ <br> 
 Fragrantic Island: https://karzkc.github.io/Fragrantic-Island-/ <br>
 Spotify Clone(Currrently for local network only): https://karzkc.github.io/Spotify-Clone/ <br>
 Taskify-Your Todo App : https://taskify-todo-app-blush.vercel.app/ <br>
@@ -42,6 +42,9 @@ Taskify-Your Todo App : https://taskify-todo-app-blush.vercel.app/ <br>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karzkc&theme=neon&hide_border=false" alt="GitHub Streak Stats"><br/><br/> -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Karzkc&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
+
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Karzkc)
 
 
 
