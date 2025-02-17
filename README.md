@@ -19,6 +19,7 @@ Taskify-Your Todo App : https://taskify-todo-app-blush.vercel.app/ <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![Next](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 <a href='https://mongoosejs.com/docs/' target="_blank"><img alt='mongoose' src='https://img.shields.io/badge/Mongoose-100000?style=flat&logo=mongoose&logoColor=880000&labelColor=FFFFFF&color=880000'/></a> 
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) 
