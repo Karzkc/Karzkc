@@ -34,6 +34,7 @@ Taskify-Your Todo App : https://taskify-todo-app-blush.vercel.app/ <br>
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux">
   </li>
   <li>
+    <img src="https://img.shields.io/badge/Electron-191970?style=flat&amp;logo=Electron&amp;logoColor=white" alt="Electron.js">
     <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next">
   </li>
   <li>
