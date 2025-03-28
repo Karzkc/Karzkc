@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5612AQHpWKXQMdnLdg/article-cover_image-shrink_720_1280/0/1710052146032?e=2147483647&v=beta&t=LlaT66GqC63firlYGbr_L2KANegqUW2RGrhzqkI-5pM" alt="" />
+<img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/reactt2_1200x303.png?sfvrsn=3ddeaf3b_2" alt="" />
 <h1>Sup Everyone 👋, I'm Kartik</h1>
 <h2>💫 About Me: </h2>
 
@@ -7,9 +7,9 @@ Fragrantic Island: https://karzkc.github.io/Fragrantic-Island-/ <br>
 Spotify Clone(Currrently for local network only): https://karzkc.github.io/Spotify-Clone/ <br>
 Taskify-Your Todo App : https://taskify-todo-app-blush.vercel.app/ <br>
 <br>
- <div align="center">
+ <!---<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh4bnJqdXd3Y2F5bWJ0M3U2ejJraHUzbGwxczBvOWFnYzNkdW40NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91P04R5jGNGZZIDm0N/giphy.gif" alt="aizen-sama" height="220">
-</div>
+</div>--->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kartikk_0803/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-khiriya-483a81319/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Karzkc08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@karzkc0803) 
