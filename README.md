@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/D5612AQHpWKXQMdnLdg/article-cover_image-shrink_720_1280/0/1710052146032?e=2147483647&v=beta&t=LlaT66GqC63firlYGbr_L2KANegqUW2RGrhzqkI-5pM" alt="" />
-<h1>Sup Everyone 👋, I'm Kartik Khiriya</h1>
+<h1>Sup Everyone 👋, I'm Kartik</h1>
 <h2>💫 About Me: </h2>
 
 I'm Currently Working on Fullstack Development <br>I'm onto MERN nowadays<br>Making Projects For Web Dev<br>Some Projects by me ;) :- <br>Netflix UI clone (not ready for mobile yet 😞): https://karzkc.github.io/Netflix-Ui-Clone/ <br> 
