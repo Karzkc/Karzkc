@@ -20,6 +20,7 @@ Taskify-Your Todo App : https://taskify-todo-app-blush.vercel.app/ <br>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
   </li>
   <li>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
@@ -33,7 +34,7 @@ Taskify-Your Todo App : https://taskify-todo-app-blush.vercel.app/ <br>
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router">
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux">
   </li>
-  <li>
+  <li>  
     <img src="https://img.shields.io/badge/Electron-191970?style=flat&amp;logo=Electron&amp;logoColor=white" alt="Electron.js">
     <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next">
   </li>
