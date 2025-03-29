@@ -4,7 +4,7 @@
 
 I'm Currently Working on <strong>Fullstack Development</strong> <br>
 I'm onto <strong>MERN Stack</strong> <br>
-Some Projects by me ;) :-
+Some Projects by me ;)
 - [Taskify-Your Todo App](https://taskify-todo-app-blush.vercel.app/)
 - [Netflix UI clone](https://karzkc.github.io/Netflix-Ui-Clone/) (non-responsive😞)
 - [Spotify Clone](https://karzkc.github.io/Spotify-Clone/) (local network only)
