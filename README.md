@@ -2,10 +2,13 @@
 <h1>Sup Everyone 👋, I'm Kartik</h1>
 <h2>💫 About Me: </h2>
 
-I'm Currently Working on Fullstack Development <br>I'm onto MERN nowadays<br>Making Projects For Web Dev<br>Some Projects by me ;) :- <br>Netflix UI clone (not ready for mobile yet 😞): https://karzkc.github.io/Netflix-Ui-Clone/ <br> 
-Fragrantic Island: https://karzkc.github.io/Fragrantic-Island-/ <br>
-Spotify Clone(Currrently for local network only): https://karzkc.github.io/Spotify-Clone/ <br>
-Taskify-Your Todo App : https://taskify-todo-app-blush.vercel.app/ <br>
+I'm Currently Working on <strong>Fullstack Development</strong> <br>
+I'm onto <strong>MERN Stack</strong> <br>
+Some Projects by me ;) :-
+- [Taskify-Your Todo App](https://taskify-todo-app-blush.vercel.app/)
+- [Netflix UI clone](https://karzkc.github.io/Netflix-Ui-Clone/) (non-responsive😞)
+- [Spotify Clone](https://karzkc.github.io/Spotify-Clone/) (local network only)
+<!--Fragrantic Island: https://karzkc.github.io/Fragrantic-Island-/-->
 <br>
  <!---<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh4bnJqdXd3Y2F5bWJ0M3U2ejJraHUzbGwxczBvOWFnYzNkdW40NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91P04R5jGNGZZIDm0N/giphy.gif" alt="aizen-sama" height="220">
