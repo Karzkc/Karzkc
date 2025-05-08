@@ -3,7 +3,7 @@
 <h2>💫 About Me: </h2>
 
 I'm Currently Working on <strong>Fullstack Development</strong> <br>
-I'm onto <strong>MERN Stack</strong> <br>
+I'm onto <strong>NEXT.JS</strong> <br>
 Some Projects by me ;)
 - [Taskify-Your Todo App](https://taskify-todo-app-blush.vercel.app/)
 - [Netflix UI clone](https://karzkc.github.io/Netflix-Ui-Clone/) (non-responsive😞)
