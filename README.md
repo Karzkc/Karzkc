@@ -39,7 +39,6 @@ Some Projects by me ;)
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux">
   </li>
   <li>  
-    <img src="https://img.shields.io/badge/Electron-191970?style=flat&amp;logo=Electron&amp;logoColor=white" alt="Electron.js">
     <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next">
   </li>
   <li>
@@ -58,7 +57,7 @@ Some Projects by me ;)
   </li>
     <li>
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white" alt="Symphony">
+   
   </li>
     <li>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
