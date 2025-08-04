@@ -1,4 +1,4 @@
-<img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/reactt2_1200x303.png?sfvrsn=3ddeaf3b_2" alt="" />
+<img src="https://philna.sh/_astro/react.Dr2GeIML.gif" alt="" />
 <h1>Sup Everyone 👋, I'm Kartik</h1>
 <h2>💫 About Me: </h2>
 
