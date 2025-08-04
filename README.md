@@ -68,7 +68,7 @@ Some Projects by me ;)
 <h1>📊 GitHub Stats:</h1>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karzkc&hide=html,css&theme=neon&layout=donut" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karzkc&hide=html,css&theme=neon&layout=donut&count=7" alt="Top Languages">
 </div>
 
 
