@@ -2,7 +2,7 @@
 <h1>Sup Everyone 👋, I'm Kartik</h1>
 <h2>💫 About Me: </h2>
 
-I'm Currently Working on <strong>Fullstack Development</strong> <br>
+I'm Currently Working on <strong>Fullstack Development</strong> and <strong>DSA in C++</strong> <br>
 I'm onto <strong>NEXT.JS</strong> <br>
 Some Projects by me ;)
 - [My Portfolio (Responsive)](https://portfolio-kartik-puce.vercel.app/)
