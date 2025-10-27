@@ -5,8 +5,9 @@
 I'm Currently Working on <strong>Fullstack Development</strong> and <strong>DSA in C++</strong> <br>
 I'm onto <strong>NEXT.JS</strong> <br>
 Some Projects by me ;)
-- [My Portfolio (Responsive)](https://portfolio-kartik-puce.vercel.app/)
-- [X(Twitter) CLONE (Responsive)](https://x-clone-five-gules.vercel.app/)
+- [My Portfolio ](https://portfolio-kartik-puce.vercel.app/)
+- [What to Watch Next - A Site for Cinephiles ](https://what-to-watch-next-by-kartik.vercel.app/)
+- [X(Twitter) CLONE ](https://x-clone-five-gules.vercel.app/)
 - [Taskify-Your Todo App](https://taskify-todo-app-blush.vercel.app/)
 - [Netflix UI clone](https://karzkc.github.io/Netflix-Ui-Clone/) (non-responsive😞)
 - [Spotify Clone](https://karzkc.github.io/Spotify-Clone/) (local network only)
